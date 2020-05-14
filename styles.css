@@ -1,0 +1,65 @@
+
+body{
+    font-family: 'Merriweather', sans-serif;
+    font-size: 1.1em;
+    color: #4d4646;
+}
+
+.card-content{
+  text-align: center;
+}
+.footer{
+  color: gray;
+  font-size: small;
+  text-align: center;
+  background-color: #ddd;
+  padding: 0.4vw;
+  margin: 0;
+}
+.header{
+    text-transform: uppercase;
+    
+}
+.logo{
+  font-family: 'Karla';
+  font-size: 400%;
+  color: black;
+}
+.navbar{
+  padding: 0;
+  background-color: khaki;
+}
+.nav-bottom{
+  padding: 0;
+  background-color: grey;
+}
+.nav-link{
+  margin: 0.8vw 5vw;
+}
+.navbar-nav{
+  margin: auto;
+}
+
+.padded{
+  padding: 2rem 0;
+}
+.section{
+  background-color: #ddd;
+  padding: 2vw 8vw;
+  position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 15px;
+    left: 400px;
+    
+  }
+.top-section {
+  background:  url("https://pmcspy.files.wordpress.com/2019/03/best-small-laptops-e1566877552844.jpg?w=958&h=599&crop=1");
+  height: 650px;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+    background-color: #5b5656;
+    padding: 0;
+  }
